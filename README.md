@@ -34,7 +34,7 @@ You can modify my code:
 
 ### Running the code
 
-There are 2 files that are run.py and test.py:  
+There are 2 files which are run.py and test.py:  
   - test.py is still a test version (I want to create a GUI that can inform us which Phone is being connected), play with it if you want.  
   - run.py runs a server and receives any phone that wants to connect to it.  
 
