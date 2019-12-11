@@ -41,7 +41,7 @@ There are 2 files that are run.py and test.py:
 Start the server by clicking the file touchpad.py (do not open Python IDLE). You should see your computer IP in the last line.  
 Start the app on your phone, enter your computer IP and tada!! 😁  
 
-![Image description] https://github.com/datletrung/phone-touchpad/example.png
+![Example]example.png
 
 ## Authors  
 
