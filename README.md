@@ -38,8 +38,8 @@ There are 2 files which are run.py and test.py:
   - test.py is still a test version (I want to create a GUI that can inform us which Phone is being connected), play with it if you want.  
   - run.py runs a server and receives any phone that wants to connect to it.  
 
-Start the server by clicking the file touchpad.py (do not open Python IDLE). You should see your computer IP in the last line.  
-Start the app on your phone, enter your computer IP and tada!! 😁  
+Start the server by clicking the file touchpad.py (do not open Python IDLE). You should see your computer's IP in the last line.  
+Start the app on your phone, enter your computer's IP and tada!! 😁  
 
 ![Example](example.png)
 
