@@ -5,7 +5,7 @@ Control computer mouse with an Android phone.
 ## Getting Started
 
 A just-for-fun project!  
-I have change the code but I haven't tested it so I don't know if it really works or not, but you can give it a try. 😁  
+I have changed the code recently but I haven't tested it so I don't know if it really works or not. Give it a try. 😁  
 Have fun with discovering the app! 😁  
 
 ### Prerequisites
