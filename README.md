@@ -45,4 +45,4 @@ Start the app on your phone, enter your computer's IP and tada!! 😁
 
 ## Authors  
 
-* **Tin Le** - **Lê Trung Tất Đạt** - (https://github.com/datletrung)  
+* **Brian Le** - **Lê Trung Tất Đạt** - (https://github.com/datletrung)  
