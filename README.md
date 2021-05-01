@@ -10,9 +10,9 @@ Have fun with discovering the app! 😁
 
 ### Prerequisites
 
-An Android Phone  
+   - An Android Phone  
 
-Python  
+   - Python  
 
 ### Installing
 
@@ -28,15 +28,15 @@ cd phone-touchpad
 #### Phone
 
 Install touchpad.apk  
-You can modify my code:  
-  - Go to http://ai2.appinventor.mit.edu/
-  - Upload file touchpad.aia and start playing! 😁  
+You can modify my code using the following steps:  
+  - Go to http://ai2.appinventor.mit.edu/  
+  - Upload file touchpad.aia and start playing around! 😁  
 
 ### Running the code
 
-There are 2 files which are run.py and test.py:  
-  - test.py is still a test version (I want to create a GUI that can inform us which Phone is being connected), play with it if you want.  
+There are 2 files which are run.py and test.py:
   - run.py runs a server and receives any phone that wants to connect to it.  
+  - test.py is a testing version (I want to create a GUI that can inform us which Phone is being connected), play with it if you like.  
 
 Start the server by clicking the file touchpad.py (do not open Python IDLE). You should see your computer's IP in the last line.  
 Start the app on your phone, enter your computer's IP and tada!! 😁  
