@@ -21,7 +21,7 @@ Have fun with discovering the app! 😁
 Download the repository:  
 
 ```
-git clone https://github.com/datletrung/phone-touchpad.git  
+git clone https://github.com/datletrung/Phone-Touchpad  
 cd phone-touchpad  
 ```
 
