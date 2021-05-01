@@ -22,7 +22,7 @@ Download the repository:
 
 ```
 git clone https://github.com/datletrung/Phone-Touchpad  
-cd phone-touchpad  
+cd Phone-Touchpad  
 ```
 
 #### Phone
