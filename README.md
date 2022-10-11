@@ -27,7 +27,7 @@ You can modify my code using the following steps:
   - Go to http://ai2.appinventor.mit.edu/  
   - Upload file touchpad.aia and start playing around! 😁  
 
-### Running the code
+### Using
 
 There are 2 files:
   - run.py runs a server and receives any phone that wants to connect to it.  
