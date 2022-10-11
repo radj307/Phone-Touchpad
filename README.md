@@ -18,12 +18,7 @@ Have fun with discovering the app! 😁
 
 #### Computer
 
-Download the repository:  
-
-```
-git clone https://github.com/datletrung/Phone-Touchpad  
-cd Phone-Touchpad  
-```
+Download or clone the repository
 
 #### Phone
 
@@ -34,9 +29,9 @@ You can modify my code using the following steps:
 
 ### Running the code
 
-There are 2 files which are run.py and test.py:
+There are 2 files:
   - run.py runs a server and receives any phone that wants to connect to it.  
-  - test.py is a testing version (I want to create a GUI that can inform us which Phone is being connected), play with it if you like.  
+  - test.py is a testing version (I want to create a GUI that can display which Phone is being connected), play with it if you like.  
 
 Start the server by clicking the file touchpad.py (do not open Python IDLE). You should see your computer's IP in the last line.  
 Start the app on your phone, enter your computer's IP and tada!! 😁  
