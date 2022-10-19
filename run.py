@@ -1,13 +1,11 @@
+from flask import Flask, request
+import pyautogui
+import socket
 import subprocess
 import sys
 
 subprocess.call([sys.executable, "-m", "pip", "install", "flask"])
 subprocess.call([sys.executable, "-m", "pip", "install", "pyautogui"])
-
-from flask import Flask, request
-import pyautogui
-import socket
-
 
 
 pyautogui.FAILSAFE = False
